@@ -1,1 +1,2 @@
 # interface_test_framework
+每个模块的功能和组织结构见工程中的思维导图
